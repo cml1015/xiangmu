@@ -1,0 +1,1 @@
+function ss(){console.log(ss)}function ss1(){console.log(ss1)}var a=123;ss();var b=123;ss1();
